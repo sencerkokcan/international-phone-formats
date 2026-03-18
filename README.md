@@ -26,7 +26,7 @@ data/
 
 {
   "country": "Turkey",
-  "short": "TR",
+  "shortname": "TR",
   "code": "+90",
   "phoneformat": "5## ### ## ##"
 }
