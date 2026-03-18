@@ -26,9 +26,9 @@ data/
 
 {
   "country": "Turkey",
-  "iso2": "TR",
-  "dialCode": "+90",
-  "format": "5## ### ## ##"
+  "short": "TR",
+  "code": "+90",
+  "phoneformat": "5## ### ## ##"
 }
 
 ## 🚀 Usage
